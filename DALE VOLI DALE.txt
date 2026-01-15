@@ -8,3 +8,6 @@ Mi camino hacia el éxito
 * Nombre: Aldhair
 * Edad: 26 años
 * Profesión: Ing. de Software con IA
+
+## Formación
+* Formado en Ing. de Software con IA en el instituto SENATI, actualmente laboro en el área de Soporte tecnológico para una empresa dedicada a la misma.
