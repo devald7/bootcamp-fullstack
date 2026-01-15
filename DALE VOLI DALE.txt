@@ -1,1 +1,5 @@
 Mi camino hacia el éxito
+
+## Tecnologías
+* Backend: PHP & Laravel
+* Frontend: React
