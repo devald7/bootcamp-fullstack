@@ -3,3 +3,8 @@ Mi camino hacia el éxito
 ## Tecnologías
 * Backend: PHP & Laravel
 * Frontend: React
+
+## Información Personal
+* Nombre: Aldhair
+* Edad: 26 años
+* Profesión: Ing. de Software con IA
